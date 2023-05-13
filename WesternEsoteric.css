@@ -1,0 +1,26 @@
+
+
+/*Style*/
+
+h1 {
+          font-family: "Helvetica", sans-serif;
+		  color: #808000;
+		  font-size: 48px;
+        }
+
+
+
+body {
+	
+/* set background color */
+
+	background-color: #FAFAD2;	
+	font-size: 16px;
+	font: 16px;
+}
+
+
+p {
+  font: 16px/1.5 Helvetica, sans-serif;
+  color: #800000;
+}
