@@ -24,3 +24,10 @@ p {
   font: 16px/1.5 Helvetica, sans-serif;
   color: #800000;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
